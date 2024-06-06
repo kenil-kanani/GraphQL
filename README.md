@@ -23,7 +23,7 @@ GRPC able to solve type safety, but it can not solve over fetching and under fet
 
 graphQL is a specs, that describes a declarative api query language.
 
-![Screenshot 2024-06-06 at 1.09.08 PM.png](Graph%20QL%20ce60f0e0e7a141b2af73ff6fac99a784/Screenshot_2024-06-06_at_1.09.08_PM.png)
+![Graph QL Img-1](assets/graphql-1.png)
 
 Server → (types , resolvers , query definition , mutation definition) ⇒ schema
 
